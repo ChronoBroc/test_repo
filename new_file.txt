@@ -1,0 +1,1 @@
+SG_API_KEY = "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"
